@@ -1,7 +1,9 @@
 ## Choice of Framework & Library
-The reason I choose the Flask framework for this project because of its simplicity, flexibility, and ease of use. Flask is a lightweight and modular framework that allows us to build scalable and maintainable web applications quickly.
+I choose Flask framework on this assessment.
 
 Benefits:
+* Flask is simplicity, flexibility, and ease of use. 
+* Flask is a lightweight and modular framework that allows us to build scalable and maintainable web applications quickly.
 * Flask is easy to learn and has a shallow learning curve, which means that developers can quickly start developing applications without spending too much time on configuration and setup.
 * Flask has a smaller, more focused community compared to Django, which can be helpful for getting answers to specific questions related to tihs application.
 
