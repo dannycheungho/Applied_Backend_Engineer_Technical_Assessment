@@ -14,7 +14,7 @@ If I had more time, I would modularize the entire project and extend each compon
 When deploying the application to a production environment, we need to take the following extra steps to ensure that the application is secure and reliable:
 
 * Ensure the App Works in a Staging Environment
-* Unit tests / Untegration tests should be conducted before each deployment.
+* Unit tests / Integration tests should be conducted before each deployment.
 * Ensure the ability to perform a rollback in case of a failed deployment.
 * Be ready to implement a comprehensive logging system.
 * Simulate a deployment in the production environment of dev/UAT on each feature brand
